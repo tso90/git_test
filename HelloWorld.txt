@@ -1,1 +1,2 @@
 This is a nano terminal code test≈
+This is the vs terminal test
